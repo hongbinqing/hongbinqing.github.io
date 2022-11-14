@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* "Clean White" Template by Dieter Schneider | www.csstemplateheaven.com */
+
+* {margin: 0; padding: 0}
+
+img {border: none}
+
+body {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: 100%; color:#666;
+     fixed;}
+
+#container {width: 600px; height: 470px; margin: auto; font-size: 1.06em }
+
+#larger_container{width: 640px; height:470px; margin:20px auto;}
+
+#logo {width: 220px; height:64px; float: left; margin-bottom: 20px}
+#logo a
+{
+color: #999;
+font-weight: bold;
+text-decoration: none;
+}
+
+#logo a.current_page
+{
+color: #0099ff;
+font-weight: bold;
+text-decoration: none;
+}
+
+#logo a:hover
+{
+color: #000;
+font-weight: bold
+}
+
+#header {height: 395px; background: url(img/header.png) bottom no-repeat; clear: both }
+
+#space1 {height: 110px;}
+#space2 {height: 50px;}
+#space3 {height: 30px;}
+
+#wrap {clear: both}
+
+#just {text-align:justify; clear:both;}
+
+#left {width: 430px; float: left}
+
+#right {height: 265px; width: 350px; float: right; background: url(img/header.jpg) bottom no-repeat; }
+
+#leftgschomp {width: 500px; float: left}
+
+#rightgschomp {height: 220px; width: 280px; float: right; }
+
+#leftlfexp {width: 380px; float: left}
+
+#rightlfexp { width: 400px; float: right; }
+
+#middle {margin-left: 0px; margin-right: 0px; }
+a.body {color:#0099ff ; text-decoration: none; }
+a.body:hover {color: #181818; text-decoration: none; hover: }
+a.foot {color:#181818 ; text-decoration: none; }
+a.title {color: #666; text-decoration: none;}
+a.section {color: #FFF; text-decoration: none;}
+#left, #right, #middle {margin-bottom: 40px}
+
+#footer {background: url(img/footer.jpg) no-repeat; clear:both; padding: 20px; text-align: center; font-size: .8em}
+
+/* typography */
+
+a {color: #0099ff}
+
+p {padding: 10px 0; text-align: justify}
+
+/* h3 {background: #566d9e ; padding:2px; color: #FFF; font-weight: normal; letter-spacing: 0em} */
+
+li {list-style-position: inside;  padding-top:3px; padding-bottom:3px}
+
+/* navigation */
+
+#navcontainer ul
+{
+color: White;
+float: right;
+width: 380px;
+padding-top: 40px
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+padding: 0px 1em;
+color: #999;
+font-weight: bold;
+text-decoration: none;
+float: right;
+/* 
+border-right: 1px solid #fff;
+ */
+}
+
+#navcontainer ul li a.current_page
+{
+padding: 0px 1em;
+color: #0099ff;
+font-weight: bold;
+text-decoration: none;
+float: right;
+/* 
+border-right: 1px solid #fff;
+ */
+}
+
+#navcontainer ul li a:hover
+{
+color: #000;
+font-weight: bold
+}
+
+table, th, td {
+    border: 2px solid grey;
+     border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+
+#complaints li {
+  margin: 30px 0;
+  text-align: justify;
+}
+
+#complaints li span {
+  position: relative;
+  left: -10px;
+}
+
+#complaints ol {
+  list-style-type: none;
+  counter-reset: elementcounter;
+  padding-left: 0;
+}
+
+#complaints li:before {
+  content: "Comment " counter(elementcounter) ": ";
+  counter-increment: elementcounter;
+  font-weight: bold;
+  color: red;
+  margin-right: 0.7em;
+}
+
+button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #FF0000;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 10px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+button:hover span {
+  padding-right: 25px;
+}
+
+button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
