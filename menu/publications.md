@@ -3,6 +3,7 @@ layout: page
 title: Publications & Presentations
 permalink: /publications
 ---
+<img src="{{ site.github.url }}/assets/img/snl.jpg">
 
 ## Academic Publications
 
