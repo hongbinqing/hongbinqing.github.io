@@ -1,0 +1,26 @@
+/*
+  Posts
+*/
+
+.posts-container {
+  margin-bottom: 5rem;
+  padding: 0px;
+  list-style: none;
+}
+
+/*
+  Thumbnail
+*/
+
+.thumbnail-container {
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 5px;
+  margin-bottom: 25px;
+}
+
+.thumbnail-container img{
+  margin-top: -11.5%;
+  margin-bottom: -11.5%;
+}
+
