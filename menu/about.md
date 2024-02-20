@@ -7,13 +7,13 @@ permalink: /about
 ## Education
 
 ### City University of Hong Kong 🇭🇰
-__Ph.D. Candidate__ in Computational Neurolinguistics
+- __Ph.D. Candidate__ in Computational Neurolinguistics
 
 ### University of Rochester 🇺🇸
-__M.S.__ in Computational Linguistics
+- __M.S.__ in Computational Linguistics
 
 ### Sichuan University 🇨🇳
-__B.A.__ in Chinese Language & Literature  (minor in Computer Science)
+- __B.A.__ in Chinese Language & Literature  (minor in Computer Science)
 
 <br>
 
