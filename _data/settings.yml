@@ -8,7 +8,7 @@ google-ID: ' '
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'Publications', url: 'publications.html'}
+- {name: 'Publications & Presentations', url: 'publications.html'}
 - {name: 'Writing', url: 'writing.html'}
 - {name: 'Gallery', url: 'gallery.html'}
 - {name: 'CV', url: 'cv.html'}
