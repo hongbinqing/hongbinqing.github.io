@@ -9,8 +9,8 @@ google-ID: ' '
 menu:
 - {name: 'About',   url: 'about.html'}
 - {name: 'Publications & Presentations', url: 'publications.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Gallery', url: 'gallery.html'}
+#- {name: 'Writing', url: 'writing.html'}
+#- {name: 'Gallery', url: 'gallery.html'}
 - {name: 'CV', url: 'cv.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
