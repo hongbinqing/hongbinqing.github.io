@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!
+title: CV
 permalink: /cv
 ---
 You can download my CV <a href="CV.pdf">here</a>!
