@@ -39,6 +39,6 @@ Linguistics Tools: NLTK, Praat...
 
 <br>
 
-## Hobbies and interests☯️
+## Hobbies and interests ☯️
 
 Chinese poetry, I-Ching (Zi wei dou shu), Vocality, Badminton
