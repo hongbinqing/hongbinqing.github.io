@@ -3,42 +3,42 @@ layout: page
 title: Welcome!
 permalink: /about
 ---
-Currently, I am a Research Assistant at [LAMB Lab](https://compneurolinglab.github.io/), [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp).
+Currently, I am a Ph.D. student in the [Department of Linguistics and Translation at City University Hong Kong](https://lt.cityu.edu.hk/). I am now supervised by [Dr. Li Jixing](https://scholars.cityu.edu.hk/en/person/jixingli) and co-supervised by [Prof. Kit Chunyu](https://scholars.cityu.edu.hk/en/person/ctckit). Before that, I got my M.S. in Computational Linguistics from [University of Rochester](https://www.sas.rochester.edu/lin/), and my B.A. in Chinese Language & Literature (minor in Computer Science) from [Sichuan University](https://en.scu.edu.cn/).
 
 Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 
 <br>
 
-## Education
+## Education/Experiences
 
 ### City University of Hong Kong
 
-M.A. Corpus & Empirical Linguistics, with Distinction
+Ph.D. Candidate in Computational Neurolinguistics
 
-Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
+### University of Rochester
 
-### Xi'an Jiaotong University
+M.S.in Computational Linguistics
 
-B.A. English, Linguistics Specialization
+### Institute of Psychology, CAS
 
-Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
+Research Assistant
 
-### University of Wisconsin-Madison
+### Sichuan University
 
-Visiting International Student Program
+B.A. in Chinese Language & Literature  (minor in Computer Science)
 
 <br>
 
 ## Language
 
-Mandarin Chinese (native), English, Spanish, Italian
+Mandarin (native) - Sichuan & Nanjing Dialect, Cantonese (proficiency), English (proficiency)
 
-Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting
+Python, C++, R, Lisp, SPSS, HTML, MATLAB, LaTeX, Shell Scripting
 
-Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
+Linguistics Tools: NLTK, Praat...
 
 <br>
 
-## A fun fact about me 🥳
+## Hobbies and interests☯️
 
-My Chinese first name "Zhengwu" pronounced as [dʒə̀ŋ ǔ], which means "high noon" in English and it is also my birth time.  
+Chinese poetry, I-Ching (Zi wei dou shu), Vocality, Badminton
