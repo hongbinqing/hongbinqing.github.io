@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications
 ---
-<img src="{{ site.github.url }}/assets/img/snl.jpg">
+<img src="{{ site.github.url }}/assets/img/CLSW2025.png">
 
 ## Academic Publications
 
