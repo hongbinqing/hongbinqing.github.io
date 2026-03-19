@@ -7,7 +7,7 @@ permalink: /about
 ## Education
 
 ### City University of Hong Kong 🇭🇰
-- __Ph.D. Candidate__ in Computational Neurolinguistics
+- __Ph.D. Candidate__ in Computational Linguistics
 
 ### University of Rochester 🇺🇸
 - __M.S.__ in Computational Linguistics
@@ -19,8 +19,12 @@ permalink: /about
 
 ## Professional Experience
 
+### 9th International Forum on Linguistics and Chinese Education      
+__Organizing Committee Member__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025.11 - present<br>
+- Organized the famous international forum with 120+ participants, responsible for website development and event coordination.
+
 ### EARS, HK Tech 300 / HKSTP Program      
-__Person in Charge__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023.08 - present<br>
+__Person in Charge__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023.08 - 2024.08<br>
 - Led the entrepreneurship team to successfully win the HK Tech 300 Seed Fund and the HKSTP IDEATION Grant. EEG-Assisted heaRing aidS (EARS) aims to use EEG signals to decode selective attention from the human brain and improve hearing aids’ voice amplification algorithm in a multi-talker environment.
 
 ### Institute of Psychology, Chinese Academy of Sciences      
@@ -44,17 +48,14 @@ __Research Assistant__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017.10 - 2018.10 <br
 <br>
 
 
-## Languages and Skills
-
-- Mandarin (native) - Sichuan & Nanjing Dialect, Cantonese (proficiency), English (proficiency)
-
-- Python, C++, R, Lisp, SPSS, HTML, MATLAB, LaTeX, Shell Scripting...
-
-- Linguistics Tools: NLTK, Praat...
-
+## Languages
+- Mandarin (Native), Cantonese (Proficient), English (Proficient)
 <br>
 
-## Hobbies and Interests ☯️
+## Programming
+- Python, C++, R, HTML, Lisp
+<br>
 
-- Chinese poetry, I-Ching (Zi wei dou shu "紫微斗数"), Vocality, Badminton
+## Interests
+- ☯️ Bazi, Poetry, Badminton
 <br>
